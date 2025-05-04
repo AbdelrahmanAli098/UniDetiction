@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "518740281171",
+    "project_id": "unidetection",
+    "storage_bucket": "unidetection.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:518740281171:android:85441a246dcdcd34a8c3a6",
+        "android_client_info": {
+          "package_name": "com.example.unidection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwTNd-kJxfj3Wsnp6voDbnfXw4pHBX_DI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+C:/FlutterProjects/Unidetection/android/app/.cxx/RelWithDebInfo/5q3x2e3q/x86_64/CMakeFiles/edit_cache.dir
+C:/FlutterProjects/Unidetection/android/app/.cxx/RelWithDebInfo/5q3x2e3q/x86_64/CMakeFiles/rebuild_cache.dir
